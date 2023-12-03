@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../Downloads/youtube-main/youtube-main/ActixWebTaskService"
+		}
+	],
+	"settings": {
+		"rust-analyzer.linkedProjects": [
+			".\\ActixWeb\\Cargo.toml"
+		]
+	}
+}
